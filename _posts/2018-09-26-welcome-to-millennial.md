@@ -4,7 +4,7 @@ title: "Super data scientist LEE"
 author: "Merry KIM"
 categories: documentation
 tags: [documentation,sample]
-image: <br><br><br>happy02.jpeg</br>
+image: happy02.jpeg
 ---
 
 Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
