@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Getting Started"
-author: "Paul Le"
+title: "With Great Power Comes Great Responsibility"
+author: "Merry KIM"
 categories: documentation
 tags: [documentation,sample]
-image: city-1.jpg
+image: todai.jpeg
 ---
 
 # Millennial

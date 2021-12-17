@@ -7,12 +7,12 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'Happy',  url: 'happy'}
-- {name: 'Merry', url: 'merry'}
-- {name: 'Sample Posts',       url: 'sample-posts'}
-- {name: 'Documentation',      url: 'documentation'}
-- {name: 'About',              url: 'about'}
-- {name: 'Contact',            url: 'contact'}
+- {name: 'Profile',  url: 'happy'}
+- {name: 'Photo', url: 'photo'}
+- {name: 'Maganize',       url: 'sample-posts'}
+- {name: 'Video',      url: 'documentation'}
+- {name: 'From.Lee',              url: 'about'}
+- {name: 'Guest',            url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
